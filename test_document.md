@@ -1,3 +1,5 @@
+> Synthetic test document. Project Halcyon, its dates, team and figures are invented for testing. Nothing here describes a real project.
+
 # Internal Product Brief: Project Halcyon
 
 Project Halcyon is an internal MulTech initiative started in March 2025 to
